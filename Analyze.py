@@ -63,7 +63,7 @@ else:
     print("Skipping partners-per-college chart — 'College' column not found.")
 
 # ---------------------------------------------------------------
-# Technology sector frequency (robust detection)
+# Technology sector frequency
 # ---------------------------------------------------------------
 possible_sector_cols = [c for c in df_expanded.columns if "sector" in c.lower() or "industry" in c.lower()]
 
