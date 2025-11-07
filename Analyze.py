@@ -1,5 +1,5 @@
 # ===============================================================
-# ECE Corporate Partnerships: Analysis & Visualization 
+# ECE Corporate Partnerships Program: Analysis & Visualization 
 # ===============================================================
 
 import pandas as pd
